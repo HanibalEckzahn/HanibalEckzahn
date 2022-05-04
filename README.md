@@ -1,10 +1,10 @@
-Hi 👋 My name is Hannes Habermann
+Hi 👋 My name is Johannes Habermann
 =================================
 
-Web-Developer
+Developer
 -------------
 
-* 🌍  I'm based in Greifswald
+* 🌍  I'm based in Greifswald Germany
 * 🖥️  See my portfolio at [My Portfolio](http://habermann-j.de)
 * ✉️  You can contact me at [j.habermann14@gmail.com](mailto:j.habermann14@gmail.com)
 * 🧠  I'm learning Angular and PHP
