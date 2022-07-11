@@ -7,7 +7,7 @@ Developer
 * 🌍  I'm based in Greifswald Germany
 * 🖥️  See my portfolio at [My Portfolio](http://habermann-j.de)
 * ✉️  You can contact me at [j.habermann14@gmail.com](mailto:j.habermann14@gmail.com)
-* 🧠  I'm learning Typescript Angular and PHP Symfony
+* 🧠  I'm learning Typescript Angular 
 
 <a href="https://www.twitter.com/H4nn3s_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/H4nn3s_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
